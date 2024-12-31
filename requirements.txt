@@ -1,0 +1,3 @@
+requests
+mercadopago
+efipay
