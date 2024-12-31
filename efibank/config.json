@@ -1,0 +1,7 @@
+{
+    "efibank": {
+        "clientID": "seu_client_id_aqui",
+        "clientSECRET": "seu_client_secret_aqui",
+        "chavePIX": "sua_chave_pix_aqui"
+    }
+}
