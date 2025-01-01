@@ -3,7 +3,7 @@ Examples of payments created from SDKs/APIs provided by Brazilian banks that all
 
 Banks that allow the creation of these payments:
 - Mercado Pago
-- EFÌ Bank
+- EFÍ Bank
 ## Where to find the documentations
 
 
